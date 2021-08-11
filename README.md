@@ -43,4 +43,17 @@ links:
 [google](https:google.com)
 
 ![cookies](https://unsplash.com/photos/OfdDiqx8Cz8)
+table
+
+| table heading | table heading | table heading |
+| ------------- | ------------- | ------------- |
+| table data    | table data    | table data    |
+| table data    | table data    | table data    |
+| table data    | table data    | table data    |
+
+
+
+``` this is the code ```
+
+
 
