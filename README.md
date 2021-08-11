@@ -33,7 +33,7 @@ Ordered list
 - - winter
 - spring -
 
-checkbxes
+checkboxes
 - [ ] red
 - [x] purple
 - [ ] white
